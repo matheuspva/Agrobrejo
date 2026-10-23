@@ -1,3 +1,32 @@
+Nome do projeto: Agrobrejo
+Problema escolhido: Como podemos automatizar a gestão das compras públicas da agricultura familiar e dar visibilidade à produção agroecológica de Brejo da Madre de Deus?
+Soluçao proposta: Solução esperada
+A Secretaria de Agricultura, Desenvolvimento Rural e Meio Ambiente (SADRMA) espera o desenvolvimento de uma solução tecnológica integrada. Ela deve conectar as duas pontas da cadeia agroecológica do município: a gestão das compras institucionais pela Prefeitura e a comercialização direta ao consumidor final.
+A expectativa institucional está centrada em um ecossistema digital composto por uma plataforma web de gestão e um aplicativo mobile multiperfil, estruturados sob os seguintes pilares e módulos funcionais:
+Módulo de Cadastro Municipal e Validação Documental
+Cadastro Digital de Produtores: Sistema unificado para o registro de agricultores e pecuaristas rurais.
+Validação Automatizada de Documentos: Ferramenta para checagem e vinculação de documentos de aptidão jurídica e produtiva (DAP/CAF), cruciais para a venda em programas governamentais.
+Vínculo com Associações: Mapeamento e entrosamento dos perfis dos produtores às suas respectivas entidades locais (como a Associação Terra Fértil).
+Módulo de Gestão da Compra Institucional (PAA/PNAE)
+Registro Automatizado de Recebimento: Sistema para controle e pesagem digitalizado (em kg) de mercadorias no momento da entrega.
+Cálculo Automatizado de Valores: Automatização do cálculo financeiro devido a cada agricultor com base nas tabelas de preços e volumes entregues por produto.
+Rastreabilidade Inteligente via QR Code: Geração automática de etiquetas com QR Code vinculando o lote físico de alimentos à ficha digital de produção do agricultor.
+Prestação de Contas Auditável: Emissão de relatórios gerenciais transparentes, imutáveis e auditáveis para eliminar erros de pagamento e mitigar riscos de glosas nos repasses federais.
+Ferramentas de Campo para o Produtor Orgânico (Rastreabilidade)
+Dois Modos de Operação (Orgânico e Convencional): Interface inteligente que altera as exigências de registro conforme a categoria do produtor, atendendo às especificidades burocráticas da Lei nº 10.831/2003.
+Caderno de Campo Digital: Diário operacional para o registro semanal de manejos, adubações e tratos culturais feito pelos produtores orgânicos ou em transição.
+Entrada de Dados por Voz: Recurso de comando de voz com transcrição automática para simplificar o preenchimento de observações pelos agricultores.
+Geolocalização Automatizada: Captura invisível das coordenadas geográficas por meio do GPS do smartphone ao registrar fotos das lavouras em campo.
+Módulo de Vitrine e Comercialização Direta (Feira Digital)
+Catálogo Mobile-First Leve: Catálogo público voltado a consumidores e turistas, com fotos, preços e disponibilidade de estoque atualizada por produtor.
+Mecanismo de Pré-Encomenda: Interface que permita aos usuários encomendarem produtos durante a semana para retirada na feira agroecológica de sexta-feira.
+Selo e Rastreabilidade do Consumidor: Integração com o selo digital "Capital Agroecológica". O consumidor deve conseguir escanear o QR Code impresso no produto para acessar as informações detalhadas da origem e manejo do alimento.
+Mecanismo de Economia Circular e Retenção de Renda
+Moeda Digital Local de Fidelização: Sistema complementar baseado em uma carteira digital de créditos. O cidadão acumula pontos ou créditos ao consumir na plataforma/feira e pode resgatá-los com outros produtores locais. Isso estimula o comércio e mantém o capital girando dentro de Brejo da Madre de Deus.
+Painel de Inteligência de Dados (Secretaria)
+Dashboard Consolidado: Painel gerencial web para a equipe administrativa contendo indicadores de total comprado por agricultor/mês, histórico comparativo ano a ano e produtos mais fornecidos.
+Planejamento Sazonal de Cardápios: Inteligência de dados para dar previsibilidade à oferta agrícola. Deve permitir que a nutricionista escolar ajuste os cardápios de forma flexível com base nas flutuações sazonais da produção local.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
